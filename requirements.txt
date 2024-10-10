@@ -1,0 +1,15 @@
+# env : geminigen
+streamlit
+google-generativeai
+python-dotenv
+Pillow
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+langchain_community
+
+pdf2image
+
+
